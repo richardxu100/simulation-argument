@@ -16,7 +16,7 @@ Why some people think this isn't real life, and instead an elaborate computer si
     * **Nature of The Universe is Digital**- James Gates has seen computer code in superposition (research more)
     * Not even talking about nonlocality, something which Einstein spent 30 years on and couldn't mangle with the materialistic view of the world.
 3. There is compelling evidence that we may be living in a computer simulation, but how would we have gotten here? Who created the simulation?
-  * The argument made is that we created the simulation. Not exactly us, but a previous version of us.
+  * The argument made is that *we* created the simulation. Not exactly us, but a previous version of us.
   * Right now our processing power is doubling every 1-2 years (18 months), and has been for decades.
   * 40 years ago we had Pong, but today we have photo-realistic VR, almost indistinguishable from reality. Some say in 50 years we'll have the ability to create a computer with the processing power of every human brain on the planet combined. Whether it takes 50 years, or 50 million years, we're heading on to this path.
   * This computer would have the ability to create ancestor simulations (read more into this)
