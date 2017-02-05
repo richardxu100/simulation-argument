@@ -10,10 +10,18 @@ Why some people think this isn't real life, but instead an elaborate computer si
 * [Does it Matter?](#does-it-matter)
 
 ## Historical Context
-We've questioned whether this is reality for as long as we can remember
+We've questioned whether this is reality for as long as we can remember, it's been a major question for philosophers for 1000's of years. Descartes, the father of western democracy, wondered about reality heavily, stating "I think, therefore I am", that he can only know he's real because he's aware of his thoughts, but can't be sure that everything else isn't. Why? What we perceive to be reality is through our senses, touch, taste, smell, hear, which are simply electrical signals to our brain. Descartes posited that some Evil Demon could be in control of our brains, creating an illusory world to deceive us, but that we could really never know.
+
+Over the years, philosophers have modernized Descartes ideas into the brain in the vat argument, which states that right now, our brains could be in some jar/vat, hooked up into a computer program which simulates our outside world perfectly through electrical signals.
+
+This premise was the driving force behind *The Matrix*, which spoiler alert is a great movie that you should still watch, but stated that the entire human race has been placed into vats and fed a computer simulation, controlled by evil artificial intelligence which uses their bodies as an energy source.
+
+None of these arguments can be disproven, but still none of them are backed up by science or fact.
+
+What is real, but simply things that we can feel, touch, taste, smell, through our senses. What we perceive to be real is through our senses, which just transmits electrical signals to our brain, so why couldn't everything we experience just be fabricated, created to deceive us by what Descartes called, an Evil Demon.
 * Descartes- *"I think therefore I am"*
 * Brain in the Vat
-* The Matrix + The Truman Show&mdash;great movies btw
+* The Matrix
 * None are rooted in fact/science
 
 ### Why Now?

@@ -73,3 +73,5 @@ Would have thought of as crazy, but now it's taken as really seriously. Cutting-
 [Simulation Video](https://www.youtube.com/watch?v=VqULEE7eY8M)
 
 So first talk about the problems of the world, which led to the simulation argument (it looks like we're in a game of sims, but how did this come to be?). Then talk about the argument (this isn't reality). And then moral considerations.
+
+![uber](http://i.imgur.com/iLiZgvf.jpg)
