@@ -1,12 +1,22 @@
 # The Simulation Argument
-Why some people think this isn't real life, and instead an elaborate computer simulation.
+Why some people think this isn't real life, but instead an elaborate computer simulation.
 
 #### Structure
+* [Historical Context](#historical-context)
+* Why now?
+* How the argument works
+* [Two caveats](#two-caveats)
+* How to test the argument
+* Does it matter?
+
+## Historical Context
 1. We've questioned whether this is reality for as long as we can remember
   * Descartes- *"I think therefore I am"*
   * Brain in the Vat
-  * The Matrix + The Truman Show
+  * The Matrix + The Truman Show&mdash;great movies btw
   * None are rooted in fact/science
+
+## Why Now?
 2. But with new scientific advancements in physics, quantum physics, the idea that this isn't real life is starting to become ever more convincing.
   * Elon Musk, Nick Bostrom, and other tech geniuses believe this world isn't real.
   * Why? Rooted in problems in physics (Concession- I did my best to understand this stuff, but it's pretty complicated so I apologize if I mess up the concepts)
@@ -15,6 +25,8 @@ Why some people think this isn't real life, and instead an elaborate computer si
     * **The Observer Effect**- When we go to the quantum level, we see that electrons sometimes look like waves, and other times like particles, and only changed when they were observed. Watching/observing something changes observed reality, which doesn't make sense in a materialistic viewpoint, but makes perfect sense if we assume this world is virtual.
     * **Nature of The Universe is Digital**- James Gates has seen computer code in superposition (research more)
     * Not even talking about nonlocality, something which Einstein spent 30 years on and couldn't mangle with the materialistic view of the world.
+
+## How the argument works
 3. There is compelling evidence that we may be living in a computer simulation, but how would we have gotten here? Who created the simulation?
   * The argument made is that *we* created the simulation. Not exactly us, but a previous version of us.
   * Right now our processing power is doubling every 1-2 years (18 months), and has been for decades.
@@ -23,8 +35,14 @@ Why some people think this isn't real life, and instead an elaborate computer si
   * So if we have the ability in the future to create ancestor simulations, either to analyze our past history and see how it would be different if certain historical events never occurred, someone would build it (like a model train enthusiast).
   * If they create this simulation, then the people in that simulation would eventually be able to, after a certain amount of technological progress, be able to create ancestor simulations of their own. And those people in that simulation would be able to as well, and so on.
   * So if all of this is true, then what's the chance that we're the first species to create the simulation? What's the most likely scenario is that we're a part of a simulation, as the number of computer simulations would vastly outnumber the one true reality.
+
+## Two Caveats
 4. But there are two caveats where the simulation would have never been created.
   * We never get to that point of technological advancement because we die out from nuclear war, global warming, some existential threat.
   * We choose not to make simulations b/c of moral or ethical reasons (the people in the simulation could still experience pain). What's the point? I think this point is less likely, but it's still out there.
+
+## How to test it
 5. How could we test it?
+
+## Does it matter?
 6. Does it matter?
