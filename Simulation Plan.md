@@ -25,10 +25,12 @@ What is real, but simply things that we can feel, touch, taste, smell, through o
 * None are rooted in fact/science
 
 ### Why Now?
-But with new scientific advancements in physics, quantum physics, the idea that this isn't real life is starting to become ever more convincing.
+But with new scientific advancements in physics, quantum physics, and problems that we have today that even Einstein couldn't figure out, the idea that this isn't real life is starting to become ever more convincing.
+[Valuable research article](http://www.newyorker.com/books/joshua-rothman/what-are-the-odds-we-are-living-in-a-computer-simulation)
+
 * Elon Musk, Nick Bostrom, and other tech geniuses believe this world isn't real.
 * Why? Rooted in problems in physics (Concession- I did my best to understand this stuff, but it's pretty complicated so I apologize if I mess up the concepts)
-  * **The Big Bang**- how did something come out of nothing? Defeats the law of conservation of energy (research this more). If we think of the world in terms of a computer simulation, this makes perfect sense, as a computer boots up there is no space-time before it, but it's there afterwards.  
+  * **The Big Bang**- [Big bang](https://www.youtube.com/watch?v=wNDGgL73ihYhow) did something come out of nothing? Defeats the law of conservation of energy (research this more). If we think of the world in terms of a computer simulation, this makes perfect sense, as a computer boots up there is no space-time before it, but it's there afterwards.  
   * **Speed Limit**- Why do we have a speed limit, with nothing able to go faster than light. It seems pretty arbitrary, and while some point to the weightlessness in photons, no one has a concrete answer to why this is our speed limit. If we think of the world as a computer simulation, this makes sense as computers can only have finite processors.
   * **The Observer Effect**- When we go to the quantum level, we see that electrons sometimes look like waves, and other times like particles, and only changed when they were observed. Watching/observing something changes observed reality, which doesn't make sense in a materialistic viewpoint, but makes perfect sense if we assume this world is virtual.
   * **Nature of The Universe is Digital**- James Gates has seen computer code in superposition (research more)
