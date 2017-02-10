@@ -10,11 +10,14 @@ presentation:
 The Simulation Argument
 
 <!-- slide #2 -->
-## The Deceitful Demon Theory
+## The Deceitful 👿 Theory
 ![Descartes](http://blog.casper.com/wp-content/uploads/2014/07/rene-descartes.jpg)
 
 <!-- slide vertical:true -->
-<div style="text-align: center;"><img src="http://www.markstivers.com/wordpress/comics/2006-08-24%20Brains-in-vat.gif">
+<div style="text-align: center;">
+  <h3 style="font-size: 3em">Brain in Vat</h3>
+<img src="http://www.markstivers.com/wordpress/comics/2006-08-24%20Brains-in-vat.gif">
+</div>
 <!-- ![Brain in Vat](http://www.markstivers.com/wordpress/comics/2006-08-24%20Brains-in-vat.gif) -->
 
 <!-- slide data-background-image:"http://i.imgur.com/WsGNkNh.jpg" -->
@@ -37,10 +40,30 @@ The Simulation Argument
 <!-- slide -->
 <h1>Problems</h1>
 <li class="fragment">The Big Bang</li>
-<li class="fragment">Speed Limit</li>
-<li class="fragment">Observer Effect</li>
 
-<!-- slide -->
+<!-- slide vertical:true -->
 <div style="text-align: center;">
 <img src="http://pad3.whstatic.com/images/c/c9/Windowsboot.png">
 </div>
+
+<!-- slide -->
+<h1>Problems</h1>
+<li>The Big Bang</li>
+<li class="fragment">The Speed Limit</li>
+<li class="fragment">The Observer Effect</li>
+
+<!-- slide data-background-image: "https://i.ytimg.com/vi/UjaAxUO6-Uw/maxresdefault.jpg" vertical: true-->
+
+<!-- slide data-background-image: "http://images.bit-tech.net/content_images/2015/09/open-world-changed-forever/open5-1920x1080.jpg" vertical: true -->
+
+<!-- slide data-background-iframe: "https://www.youtube.com/embed/oc4GOkHfxBY?autoplay=1&start=76&end=102" -->
+
+<!-- slide -->
+# Problems
+* The Big Bang
+* The Speed Limit
+* The Observer Effect
+* "I found computer code" - James Gates (theoretical physicist)
+
+<!-- slide data-background-color: "white"-->
+<h1 style="color: black !important; text-align: center">How?</h1>
