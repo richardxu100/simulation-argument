@@ -46,13 +46,18 @@ There is compelling evidence that we may be living in a computer simulation, but
 * If they create this simulation, then the people in that simulation would eventually be able to, after a certain amount of technological progress, be able to create ancestor simulations of their own. And those people in that simulation would be able to as well, and so on.
 * So if all of this is true, then what's the chance that we're the first species to create the simulation? What's the most likely scenario is that we're a part of a simulation, as the number of computer simulations would vastly outnumber the one true reality.
 
-## Two Caveats
-But there are two caveats where the simulation would have never been created.
+## Three Caveats
+But there are three caveats where the simulation would have never been created.
+* We can't simulate consciousness. It's saying hey, we've made clever bot, and he can act like he's real, but he can't feel like he's real. It's an assumption that we can, as philosophers and scientists who study consciousness, create consciousness because it's not like a soul or anything, but a process, like a complicated dance between neurons and chemicals. Called substrate independence. 
 * We never get to that point of technological advancement because we die out from nuclear war, global warming, some existential threat.
 * We choose not to make simulations b/c of moral or ethical reasons (the people in the simulation could still experience pain). What's the point? I think this point is less likely, but it's still out there.
 
 ## How to Test it
 How could we test it?
+* A pop-up says, hey you're living in a simulation
+* We could see in the future if
 
 ## Does it Matter?
 Does it matter?
+* It could motivate us to be good, in hopes of getting uploaded into reality (the afterlife).
+* I think that it's amazing, gives me faith in humanity
