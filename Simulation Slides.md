@@ -3,7 +3,6 @@ presentation:
   fragments: true
 ---
 
-
 <!-- slide -->
 # Is this real life?
 The Simulation Argument
@@ -19,6 +18,9 @@ The Simulation Argument
   <h3>"Are we in a simulation? Good chance."</h3>
   <img src="http://www.seriouswonder.com/wp-content/uploads/Nick-Bostrom-A.I.-3-1024x683.jpg">
 </div>
+
+<!-- slide vertical: true-->
+![Screen Shot 2017-02-15 at 2.36.19 PM](http://i.imgur.com/8dHErhv.png)
 
 <!-- slide -->
 <!-- ## The Deceitful 👿 Theory
@@ -61,9 +63,9 @@ The Simulation Argument
 
 <!-- slide data-background-image: "http://images.bit-tech.net/content_images/2015/09/open-world-changed-forever/open5-1920x1080.jpg" vertical: true -->
 
-<!-- slide vertical-true -->
+<!-- slide vertical: true -->
 <div style="center-align">
-  <h3 style="text-align: center;">"I found computer code, hidden in the cosmos."</h3>
+  <h3 style="text-align: center;">"I found computer code, hidden in string theory."</h3>
   <img src="https://images.c-span.org/Files/00d/20130519200306001_hd.jpg/Thumbs/height.630.no_border.width.1200.jpg">
 </div>
 
@@ -74,14 +76,18 @@ The Simulation Argument
 * The Observer Effect
 * Computer Code Found in Nature
 
-
-
 <!-- slide data-background-color: "white"-->
-<h3 class="fragment" style="color: black !important; text-align: center; font-size: 3em; font-weight: 500">How did we get here?</h3>
+<h3 class="fragment" style="color: black !important; text-align: center; font-size: 3em; font-weight: 500">Who created it?</h3>
 
 <!-- slide data-background-image: "http://img07.deviantart.net/9096/i/2013/032/c/0/future_city_by_dongkyuni-d5tidbu.jpg" vertical: true-->
 <h3 class="center-gradient">Post Humans</h3>
 <p>Will require a lot of intelligence, superintelligence, transcendentalism</p>
+
+<!-- slide vertical: true -->
+<div style="text-align: center">
+  <h3>Moore's Law: Exponential Growth</h3>
+  <img src="https://cdn-images-1.medium.com/max/800/1*Lu0Y6Mcy4HxM2tYoWJAyaw.jpeg" />
+</div>
 
 <!-- slide -->
 <h1>Three Caveats</h1>
@@ -110,7 +116,22 @@ The Simulation Argument
 
 <!-- slide vertical: true data-background-image: "http://www.tampabay.com/resources/images/dti/rendered/2016/08/1A_Kid081916_17809033_8col.jpg" -->
 
+<!-- slide vertical: true data-background-image: "http://www.euractiv.com/wp-content/uploads/sites/2/2015/10/extreme_poverty_creditde_visu_shutterstock.jpeg" -->
+
+<!-- slide -->
+# How do we test this?
+
 <!-- slide data-background-color: "white"-->
 <h3 class="fragment" style="color: black !important; text-align: center; font-size: 3em; font-weight: 500">Does it matter?</h3>
 <li class="fragment" style="color: black;">I'm much more appreciative of what humans can do</li>
+<li class="fragment" style="color: black;">We thought the world was flat (sailing off), we were the center of the universe, we've been wrong. Humble is good. Just less wrong.</li>
 <li class="fragment">Humans rock!</li>
+
+<!-- slide vertical: true data-background-color: "white"-->
+<div style="text-align: center;">
+  <img src="https://whatisntscience.files.wordpress.com/2015/07/you.png" style="height: 70vh">
+</div>
+
+<!-- slide -->
+# Resources
+*
