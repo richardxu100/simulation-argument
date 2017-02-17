@@ -81,7 +81,6 @@ The Simulation Argument
 
 <!-- slide data-background-image: "http://img07.deviantart.net/9096/i/2013/032/c/0/future_city_by_dongkyuni-d5tidbu.jpg" vertical: true-->
 <h3 class="center-gradient">Post Humans</h3>
-<p>Will require a lot of intelligence, superintelligence, transcendentalism</p>
 
 <!-- slide vertical: true -->
 <div style="text-align: center">
@@ -123,15 +122,10 @@ The Simulation Argument
 
 <!-- slide data-background-color: "white"-->
 <h3 class="fragment" style="color: black !important; text-align: center; font-size: 3em; font-weight: 500">Does it matter?</h3>
-<li class="fragment" style="color: black;">I'm much more appreciative of what humans can do</li>
-<li class="fragment" style="color: black;">We thought the world was flat (sailing off), we were the center of the universe, we've been wrong. Humble is good. Just less wrong.</li>
-<li class="fragment">Humans rock!</li>
 
-<!-- slide vertical: true data-background-color: "white"-->
-<div style="text-align: center;">
-  <img src="https://whatisntscience.files.wordpress.com/2015/07/you.png" style="height: 70vh">
-</div>
+<!-- slide vertical: true-->
+# Keep Learning
+![Screen Shot 2017-02-15 at 7.37.16 PM](http://i.imgur.com/Ho9xJ7a.jpg)
 
-<!-- slide -->
-# Resources
-*
+<!-- slide data-background-image: "http://i.huffpost.com/gen/4393678/images/o-THE-MATRIX-facebook.jpg"-->
+<div style="text-align: center;"><h3 class="center-gradient">Thank you!</h3></div>
