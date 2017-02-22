@@ -4,8 +4,8 @@ presentation:
 ---
 
 <!-- slide -->
-# Is this real life?
-The Simulation Argument
+# The Simulation Argument
+Richard Xu
 
 <!-- slide vertical: true-->
 <div style="text-align: center;">
@@ -13,14 +13,19 @@ The Simulation Argument
   <img src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2534551796ee0a2638b462ce82e33b65091b1d42_1600x1200.jpg?cb=05112016&quality=89&w=800">
 </div>
 
-<!-- slide vertical: true-->
-<div style="text-align: center">
-  <h3>"Are we in a simulation? Good chance."</h3>
-  <img src="http://www.seriouswonder.com/wp-content/uploads/Nick-Bostrom-A.I.-3-1024x683.jpg">
+<!-- slide vertical: true -->
+<div style="text-align: center;">
+  <h3>"Yeah we're probably in a simulation"</h3>
+  <img src="http://media-channel.nationalgeographic.com/media/uploads/photos/content/video/2015/12/10/583856707773_583856707773_DigiMedia_StarTalk_DeepThoughts-GreenScreen_FINAL.jpg">
 </div>
 
 <!-- slide vertical: true-->
 ![Screen Shot 2017-02-15 at 2.36.19 PM](http://i.imgur.com/8dHErhv.png)
+
+<!-- slide vertical: true data-background-image: "http://www.seriouswonder.com/wp-content/uploads/Nick-Bostrom-A.I.-3-1024x683.jpg"-->
+<div style="text-align: center">
+  <h3 class="center-gradient">Nick Bostrom</h3>
+</div>
 
 <!-- slide -->
 <!-- ## The Deceitful 👿 Theory
@@ -28,7 +33,7 @@ The Simulation Argument
 <h3 style="text-align: center; margin-bottom: -10px; font-size: 2em">The Deceitful 👿 Theory</h3>
 <img src="http://blog.casper.com/wp-content/uploads/2014/07/rene-descartes.jpg">
 
-<!-- slide vertical:true -->
+<!-- slide vertical: true -->
 <div style="text-align: center;">
   <h3 style="font-size: 3em">Brain in the Vat</h3>
   <img src="http://www.markstivers.com/wordpress/comics/2006-08-24%20Brains-in-vat.gif">
@@ -40,7 +45,7 @@ The Simulation Argument
 </div>
 
 <!-- slide vertical: true data-background-image: "http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_640/images/live/p0/3x/sw/p03xsw49.jpg" -->
-<h3 class="center-gradient">Science</h3>
+<h3 class="center-gradient"> Materialism</h3>
 
 <!-- slide -->
 <h1>Problems</h1>
@@ -57,7 +62,14 @@ The Simulation Argument
 <h1>Problems</h1>
 <li>The Big Bang</li>
 <li>The Speed Limit</li>
-<li class="fragment">The Observer Effect</li>
+
+<!-- slide data-background-image: "http://www.astronomytime.com/wp-content/uploads/2013/07/Speed-of-Light.jpg" vertical: true-->
+
+<!-- slide vertical: true -->
+<h1>Problems</h1>
+<li>The Big Bang</li>
+<li>The Speed Limit</li>
+<li>The Observer Effect</li>
 
 <!-- slide data-background-image: "https://i.ytimg.com/vi/UjaAxUO6-Uw/maxresdefault.jpg" vertical: true-->
 
@@ -65,7 +77,7 @@ The Simulation Argument
 
 <!-- slide vertical: true -->
 <div style="center-align">
-  <h3 style="text-align: center;">"I found computer code, hidden in string theory."</h3>
+  <h3 style="text-align: center;">"I found computer code, hidden in nature."</h3>
   <img src="https://images.c-span.org/Files/00d/20130519200306001_hd.jpg/Thumbs/height.630.no_border.width.1200.jpg">
 </div>
 
@@ -79,14 +91,14 @@ The Simulation Argument
 <!-- slide data-background-color: "white"-->
 <h3 class="fragment" style="color: black !important; text-align: center; font-size: 3em; font-weight: 500">Who created it?</h3>
 
-<!-- slide data-background-image: "http://img07.deviantart.net/9096/i/2013/032/c/0/future_city_by_dongkyuni-d5tidbu.jpg" vertical: true-->
-<h3 class="center-gradient">Post Humans</h3>
-
 <!-- slide vertical: true -->
 <div style="text-align: center">
   <h3>Moore's Law: Exponential Growth</h3>
   <img src="https://cdn-images-1.medium.com/max/800/1*Lu0Y6Mcy4HxM2tYoWJAyaw.jpeg" />
 </div>
+
+<!-- slide data-background-image: "http://img07.deviantart.net/9096/i/2013/032/c/0/future_city_by_dongkyuni-d5tidbu.jpg" vertical: true-->
+<h3 class="center-gradient">Post Human</h3>
 
 <!-- slide -->
 <h1>Three Caveats</h1>
@@ -123,9 +135,23 @@ The Simulation Argument
 <!-- slide data-background-color: "white"-->
 <h3 class="fragment" style="color: black !important; text-align: center; font-size: 3em; font-weight: 500">Does it matter?</h3>
 
-<!-- slide vertical: true-->
-# Keep Learning
-![Screen Shot 2017-02-15 at 7.37.16 PM](http://i.imgur.com/Ho9xJ7a.jpg)
+<!-- slide vertical: true -->
+<div style="text-align: center;">
+  <h3>Please the Architect</h3>
+  <img src="http://ca.citizenrelations.com/wp-content/uploads/2015/08/CBN_1920x800_028_Small-Business-With-a-Heart-1920x800.jpg">
+</div>
+
+<!-- slide vertical: true -->
+<div style="text-align: center;">
+  <h3>"Change how I live? Hmm... nah."</h3>
+  <img src="http://www.srf.ch/sendungen/sternstunde-philosophie/iapp/image/3457038/5/die_zukunft_des_menschen_srf_schwerpunkt_roboter_wie_wir@1x.jpg">
+</div>
+
+<!-- slide vertical: true -->
+<div style="text-align: center;">
+  <h3>"Either we're in a simulation, or civilization will cease to exist."</h3>
+  <img src="https://i.ytimg.com/vi/2KK_kzrJPS8/maxresdefault.jpg">
+</div>
 
 <!-- slide data-background-image: "http://i.huffpost.com/gen/4393678/images/o-THE-MATRIX-facebook.jpg"-->
 <div style="text-align: center;"><h3 class="center-gradient">Thank you!</h3></div>
