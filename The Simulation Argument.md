@@ -127,10 +127,7 @@ Richard Xu
 
 <!-- slide vertical: true data-background-image: "http://www.tampabay.com/resources/images/dti/rendered/2016/08/1A_Kid081916_17809033_8col.jpg" -->
 
-<!-- slide vertical: true data-background-image: "http://www.euractiv.com/wp-content/uploads/sites/2/2015/10/extreme_poverty_creditde_visu_shutterstock.jpeg" -->
-
-<!-- slide -->
-# How do we test this?
+<!-- slide vertical: true data-background-image: "http://static4.businessinsider.com/image/5141f3236bb3f73827000004/the-iraq-war-could-cost-more-than-6-trillion.jpg" -->
 
 <!-- slide data-background-color: "white"-->
 <h3 class="fragment" style="color: black !important; text-align: center; font-size: 3em; font-weight: 500">Does it matter?</h3>
@@ -151,6 +148,11 @@ Richard Xu
 <div style="text-align: center;">
   <h3>"Either we're in a simulation, or civilization will cease to exist."</h3>
   <img src="https://i.ytimg.com/vi/2KK_kzrJPS8/maxresdefault.jpg">
+</div>
+
+<!-- slide vertical: true data-background-image: "http://24.media.tumblr.com/be09e6d1e7361561ec41c040baf785cd/tumblr_muxx5z7J4o1rjenv2o1_500.gif" vertical: true-->
+<div style="text-align: center">
+  <h3 class="center-gradient">We've won</h3>
 </div>
 
 <!-- slide data-background-image: "http://i.huffpost.com/gen/4393678/images/o-THE-MATRIX-facebook.jpg"-->
