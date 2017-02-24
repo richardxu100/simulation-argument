@@ -155,8 +155,5 @@ Richard Xu
   <h3 class="center-gradient">We've won</h3>
 </div>
 
-<!-- slide vertical: true data-background-color: "white"-->
-<h3 class="fragment" style="color: black !important; text-align: center; font-size: 3em; font-weight: 500">What do you think?</h3>
-
 <!-- slide data-background-image: "http://i.huffpost.com/gen/4393678/images/o-THE-MATRIX-facebook.jpg"-->
 <div style="text-align: center;"><h3 class="center-gradient">Thank you!</h3></div>
