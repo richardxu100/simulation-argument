@@ -1,7 +1,3 @@
----
-presentation:
-  fragments: true
----
 
 <!-- slide -->
 # The Simulation Argument
@@ -20,7 +16,7 @@ Richard Xu
 </div>
 
 <!-- slide vertical: true-->
-![Screen Shot 2017-02-15 at 2.36.19 PM](http://i.imgur.com/8dHErhv.png)
+![Screen Shot 2017-02-15 at 2.36.19 PM](http://i.imgur.com/8dHErhv.png )
 
 <!-- slide vertical: true data-background-image: "http://www.seriouswonder.com/wp-content/uploads/Nick-Bostrom-A.I.-3-1024x683.jpg"-->
 <div style="text-align: center">
@@ -29,7 +25,7 @@ Richard Xu
 
 <!-- slide -->
 <!-- ## The Deceitful 👿 Theory
-![Descartes](http://blog.casper.com/wp-content/uploads/2014/07/rene-descartes.jpg) -->
+![Descartes](http://blog.casper.com/wp-content/uploads/2014/07/rene-descartes.jpg ) -->
 <h3 style="text-align: center; margin-bottom: -10px; font-size: 2em">The Deceitful 👿 Theory</h3>
 <img src="http://blog.casper.com/wp-content/uploads/2014/07/rene-descartes.jpg">
 
