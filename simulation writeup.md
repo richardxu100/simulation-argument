@@ -40,6 +40,8 @@ The next interpretation comes from the founder of the argument, Nick Bostrom. As
 
 Lastly, we get Elon Musk. He says look, either we're in a simulation, or civilization will cease to exist. He assumes that we can create consciousness and that if we have the technology to build a simulation, we'll build it, which are very reasonable beliefs. If this is the case, then either we build simulations and realize we're most likely in one, or we'll wipe ourselves out. In this case, maybe we should hope we're living in the Matrix. Maybe we should be proud of humanity and any advanced civilizations out there. We've leveled up. We've done it. We've become posthuman, and our own creators. And I think that's an amazing side of the simulation argument.
 
+So this is all I have about the simulation argument. There's much more you can learn about this on the simulation-argument.com, through google and all that. I hope you learned something or perhaps see the world in a slightly different way, and just thank you so much for listening to my talk.
+
 I'd like to end it off here and say, the only reason I'm standing here is because I had a question. Why do these smart people believe we're living in a simulation. And I offered to you today all I know and learned about this topic. But I'm intensely curious. What do you think? Do you think we're living in a simulation. Are you going to change how you live your life? Do you care? I want to know. And so I'd like to give you guys a big thank you. I'll be free to answer questions you may have about this topic. 
 
 Thank you.
