@@ -1,5 +1,5 @@
 # The Simulation Argument (Write-up)
-The Simulation Argument. What the heck is this about. Well it's about this question. How many of you, raise your hand, believe we're living in the Matrix, a virtual-reality? Alright, now how many of you believe we're living in the real world. This is the tension, the conflict that this whole argument is about. Because it's not just crazy people who believe we're living in the Matrix. It's also guys like Elon Musk, and Neil Degrasse Tyson.
+The Simulation Argument. What the heck is this about. Well it's about this question. How many of you, raise your hand, believe we're living in the real world, that this is reality? Alright, now how many of you believe we're living in the Matrix, a virtual-reality? This is the tension, the conflict that this whole argument is about. Because it's not just crazy people who believe we're living in the Matrix. It's also guys like Elon Musk, and Neil Degrasse Tyson.
 
 You ask tech billionaires from Silicon Valley, they'll laugh at you. They'll say, are you kidding me? The question isn't whether we're living in a simulation or not. It's how do we break out. They're funding scientists right now, saying "Hey, find a way out of this simulation". I'm not making any of this up.
 
